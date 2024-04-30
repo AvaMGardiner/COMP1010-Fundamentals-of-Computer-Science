@@ -1,0 +1,516 @@
+Total passes,482,,,,,,
+Total successful passes,402,,,,,,
+Total successful switches,19,,,,,,
+Total successful long balls,37,,,,,,
+Total passes in first half,178,,,,,,
+Total passes in second half,190,,,,,,
+Total successful passes in first half,154,,,,,,
+Total successful passes in second half,162,,,,,,
+Status,Type,FromX,FromY,ToX,ToY,Time,Segment
+Successful,Forward,26,-25,10,25,0:00:00,first half
+Successful,Backward,-3,21,27,-25,0:00:17,first half
+Unsuccessful,Backward,-8,31,-11,-27,0:00:44,first half
+Successful,Forward,-7,0,0,22,0:01:04,first half
+Successful,Backward,-29,41,-10,-19,0:01:14,first half
+Successful,Forward,11,-21,-11,4,0:01:36,first half
+Successful,Backward,7,-35,-24,-47,0:01:51,first half
+Successful,Backward,-14,-17,4,-41,0:02:13,first half
+Successful,Forward,14,-22,16,46,0:02:36,first half
+Successful,Backward,-8,13,-23,-3,0:02:48,first half
+Successful,Forward,-22,-42,6,-27,0:02:58,first half
+Successful,Forward,1,44,22,45,0:03:08,first half
+Successful,Backward,-11,8,-1,-48,0:03:20,first half
+Successful,Forward,14,-36,4,5,0:03:37,first half
+Unsuccessful,Backward,1,39,13,-12,0:03:48,first half
+Successful,Forward,25,24,25,27,0:04:10,first half
+Unsuccessful,Forward,27,-43,-17,29,0:04:38,first half
+Successful,Forward,-12,-8,-8,-1,0:04:56,first half
+Successful,Forward,2,-49,16,25,0:05:19,first half
+Successful,Forward,5,39,-7,45,0:05:38,first half
+Successful,Forward,13,29,25,45,0:06:07,first half
+Successful,Backward,16,46,-4,-35,0:06:20,first half
+Unsuccessful,Forward,27,-22,-25,22,0:06:34,first half
+Successful,Backward,-4,25,-1,22,0:06:54,first half
+Successful,Backward,-22,-13,-21,-14,0:07:18,first half
+Successful,Forward,-16,-25,10,20,0:07:32,first half
+Unsuccessful,Forward,22,46,-14,49,0:07:48,first half
+Successful,Backward,27,26,-21,-17,0:08:11,first half
+Unsuccessful,Backward,-27,21,-3,-7,0:08:38,first half
+Successful,Forward,19,-39,-26,6,0:08:56,first half
+Successful,Forward,-24,-30,-11,49,0:09:25,first half
+Successful,Forward,27,-15,-9,21,0:09:46,first half
+Successful,Forward,19,2,-19,44,0:10:13,first half
+Successful,Backward,14,28,-6,-28,0:10:35,first half
+Successful,Backward,-27,43,22,-30,0:10:51,first half
+Successful,Forward,-10,-22,9,-5,0:11:03,first half
+Successful,Backward,-7,43,-5,-37,0:11:21,first half
+Successful,Forward,24,-26,4,-7,0:11:40,first half
+Successful,Backward,-14,40,17,-27,0:12:01,first half
+Successful,Backward,-3,16,20,-23,0:12:12,first half
+Successful,Backward,17,47,7,24,0:12:33,first half
+Successful,Forward,-1,0,-2,17,0:13:01,first half
+Successful,Backward,15,40,-29,38,0:13:16,first half
+Successful,Backward,1,18,-21,15,0:13:29,first half
+Successful,Forward,-3,10,10,26,0:13:40,first half
+Successful,Backward,-25,19,-9,-49,0:13:52,first half
+Successful,Backward,6,13,-17,-28,0:14:18,first half
+Successful,Backward,21,48,13,36,0:14:29,first half
+Successful,Backward,-26,44,10,-21,0:14:54,first half
+Successful,Backward,18,7,-10,5,0:15:06,first half
+Successful,Forward,8,-32,18,-22,0:15:27,first half
+Successful,Forward,-3,-36,-22,-2,0:15:41,first half
+Successful,Backward,-17,47,-1,-39,0:16:02,first half
+Successful,Backward,0,7,11,-21,0:16:18,first half
+Successful,Backward,-27,7,21,-18,0:16:28,first half
+Successful,Backward,15,-15,-20,-31,0:16:52,first half
+Successful,Forward,27,-28,24,-17,0:17:11,first half
+Successful,Forward,16,-9,18,-1,0:17:34,first half
+Successful,Backward,16,-2,10,-33,0:18:03,first half
+Unsuccessful,Forward,0,-41,0,-6,0:18:14,first half
+Unsuccessful,Backward,26,41,13,0,0:18:43,first half
+Successful,Backward,-17,47,23,0,0:19:02,first half
+Successful,Forward,0,-26,-11,-18,0:19:16,first half
+Successful,Forward,-12,15,-17,49,0:19:41,first half
+Successful,Backward,1,49,12,17,0:20:06,first half
+Successful,Backward,-20,32,-22,-42,0:20:33,first half
+Successful,Forward,-17,0,28,44,0:20:59,first half
+Successful,Forward,16,-28,8,31,0:21:21,first half
+Successful,Backward,-13,38,-8,-13,0:21:43,first half
+Successful,Forward,21,-39,-28,39,0:21:56,first half
+Successful,Backward,9,30,25,20,0:22:09,first half
+Successful,Forward,-19,-34,-10,-21,0:22:24,first half
+Successful,Forward,10,-36,-20,-30,0:22:47,first half
+Unsuccessful,Forward,-19,-30,15,29,0:23:03,first half
+Successful,Forward,-9,-35,-25,-11,0:23:23,first half
+Successful,Backward,24,12,-5,-17,0:23:47,first half
+Successful,Backward,15,3,7,-35,0:24:15,first half
+Successful,Backward,27,-21,-14,-46,0:24:43,first half
+Successful,Forward,21,-39,28,14,0:25:00,first half
+Successful,Forward,3,14,-27,25,0:25:12,first half
+Successful,Forward,-20,-22,4,40,0:25:27,first half
+Successful,Forward,-9,-49,6,-2,0:25:38,first half
+Unsuccessful,Backward,-3,31,24,-5,0:25:53,first half
+Unsuccessful,Backward,-25,46,-7,23,0:26:04,first half
+Successful,Backward,-20,36,-1,5,0:26:15,first half
+Successful,Backward,-4,44,5,41,0:26:37,first half
+Successful,Forward,11,-28,-23,-27,0:26:47,first half
+Successful,Backward,11,45,19,10,0:27:04,first half
+Successful,Backward,-18,13,28,-49,0:27:31,first half
+Successful,Backward,-3,36,-23,15,0:27:52,first half
+Successful,Backward,-4,-34,18,-42,0:28:20,first half
+Successful,Backward,22,31,-11,18,0:28:44,first half
+Successful,Backward,-7,0,-12,-10,0:29:04,first half
+Unsuccessful,Forward,-16,-40,-24,2,0:29:26,first half
+Unsuccessful,Forward,0,-47,12,-31,0:29:48,first half
+Successful,Forward,11,-20,27,-12,0:30:05,first half
+Successful,Backward,-13,22,17,-32,0:30:21,first half
+Successful,Sideways,9,44,15,44,0:30:38,first half
+Successful,Forward,23,-7,-13,47,0:31:06,first half
+Successful,Backward,28,15,8,-6,0:31:34,first half
+Successful,Backward,13,22,25,-42,0:31:53,first half
+Successful,Backward,0,48,-20,34,0:32:16,first half
+Successful,Forward,-27,-46,-22,42,0:32:38,first half
+Successful,Backward,-27,16,8,-29,0:32:59,first half
+Unsuccessful,Backward,9,38,15,6,0:33:24,first half
+Successful,Forward,-23,-40,-2,33,0:33:48,first half
+Successful,Forward,22,-17,22,16,0:34:08,first half
+Unsuccessful,Backward,8,47,28,-26,0:34:19,first half
+Successful,Forward,27,-39,0,10,0:34:44,first half
+Successful,Backward,1,41,-2,-23,0:35:07,first half
+Successful,Forward,2,-15,-28,7,0:35:27,first half
+Successful,Forward,4,3,-29,36,0:35:51,first half
+Successful,Backward,-19,10,-28,-23,0:36:03,first half
+Successful,Forward,8,-16,17,38,0:36:28,first half
+Successful,Backward,23,27,2,-23,0:36:40,first half
+Successful,Backward,5,9,-8,-11,0:36:50,first half
+Successful,Forward,-5,-47,-3,37,0:37:02,first half
+Successful,Forward,-1,-13,-9,45,0:37:30,first half
+Successful,Backward,-7,17,-11,-1,0:37:44,first half
+Successful,Forward,24,-30,-5,-25,0:38:06,first half
+Successful,Backward,22,-40,1,-45,0:38:23,first half
+Successful,Backward,3,-2,10,-34,0:38:36,first half
+Successful,Backward,-13,-24,19,-43,0:39:01,first half
+Successful,Forward,29,-41,-26,-3,0:39:20,first half
+Successful,Backward,26,-4,-27,-28,0:39:38,first half
+Successful,Backward,7,34,-24,23,0:40:01,first half
+Successful,Backward,24,14,-21,-23,0:40:12,first half
+Unsuccessful,Backward,17,21,-4,-16,0:40:33,first half
+Successful,Backward,-13,-15,-3,-48,0:40:56,first half
+Successful,Forward,-10,-49,-3,-26,0:41:07,first half
+Successful,Forward,16,-6,25,3,0:41:28,first half
+Successful,Backward,-19,46,-22,-40,0:41:52,first half
+Successful,Forward,8,5,-24,33,0:42:11,first half
+Successful,Forward,2,-17,-11,-16,0:42:39,first half
+Successful,Backward,-22,38,-8,-5,0:42:50,first half
+Unsuccessful,Forward,14,-9,-8,31,0:43:07,first half
+Successful,Backward,-8,40,-17,-41,0:43:20,first half
+Unsuccessful,Backward,24,-7,-14,-18,0:43:41,first half
+Successful,Forward,-29,-8,12,0,0:43:56,first half
+Successful,Backward,7,48,21,-31,0:44:06,first half
+Successful,Forward,2,-26,2,-1,0:44:34,first half
+Successful,Forward,-1,-47,27,-22,0:44:57,first half
+Successful,Backward,-8,14,28,-28,0:45:18,first half
+Successful,Forward,17,-41,-26,25,0:45:29,first half
+Successful,Backward,3,40,-18,10,0:45:45,first half
+Successful,Backward,27,29,27,-36,0:45:58,first half
+Successful,Backward,-23,18,20,4,0:46:11,first half
+Successful,Forward,-6,23,-24,29,0:46:33,first half
+Unsuccessful,Backward,11,12,-3,-15,0:46:46,first half
+Successful,Backward,-29,33,0,7,0:46:57,first half
+Successful,Sideways,23,32,26,32,0:47:15,first half
+Successful,Backward,3,10,4,-39,0:47:44,first half
+Successful,Forward,-6,-41,2,4,0:48:08,first half
+Successful,Forward,27,-31,-9,22,0:48:26,first half
+Successful,Backward,22,12,9,-48,0:48:42,first half
+Successful,Forward,10,-9,13,22,0:49:10,first half
+Unsuccessful,Forward,-4,-49,-16,-27,0:49:39,first half
+Successful,Backward,0,29,1,-35,0:50:03,first half
+Successful,Backward,4,37,24,24,0:50:30,first half
+Successful,Forward,7,6,14,39,0:50:56,first half
+Unsuccessful,Backward,4,-44,-19,-46,0:51:09,first half
+Successful,Forward,0,-33,-17,-20,0:51:22,first half
+Successful,Forward,-24,-23,15,48,0:51:33,first half
+Successful,Forward,7,-25,-16,11,0:51:57,first half
+Successful,Backward,8,27,-2,-6,0:52:12,first half
+Successful,Forward,-26,-4,-28,4,0:52:30,first half
+Successful,Backward,0,21,-27,0,0:52:42,first half
+Unsuccessful,Backward,-23,44,26,-9,0:53:07,first half
+Successful,Backward,-1,29,-12,-31,0:53:34,first half
+Successful,Forward,11,10,0,24,0:53:52,first half
+Successful,Backward,19,-5,-21,-28,0:54:11,first half
+Successful,Backward,-19,-9,6,-17,0:54:40,first half
+Unsuccessful,Forward,-8,3,-6,36,0:55:00,first half
+Successful,Backward,-29,27,0,-10,0:55:29,first half
+Successful,Forward,4,20,25,38,0:55:46,first half
+Unsuccessful,Forward,25,-26,-12,21,0:56:07,first half
+Successful,Forward,12,-31,25,-7,0:56:23,first half
+Successful,Forward,12,-8,8,4,0:56:47,first half
+Successful,Backward,16,-2,24,-9,0:00:00,second half
+Successful,Forward,20,0,4,31,0:00:27,second half
+Successful,Backward,-17,44,-18,-30,0:00:56,second half
+Successful,Forward,-21,-48,16,-28,0:01:08,second half
+Unsuccessful,Forward,0,-28,27,14,0:01:23,second half
+Successful,Forward,-9,-6,-10,3,0:01:33,second half
+Successful,Forward,-18,-36,23,-6,0:01:57,second half
+Successful,Backward,-28,45,-28,31,0:02:08,second half
+Successful,Forward,25,32,12,33,0:02:24,second half
+Successful,Forward,10,-33,-14,44,0:02:50,second half
+Successful,Forward,19,-41,-6,39,0:03:19,second half
+Successful,Forward,5,-12,-19,3,0:03:29,second half
+Unsuccessful,Backward,29,-1,23,-5,0:03:44,second half
+Successful,Backward,-23,-10,21,-18,0:04:08,second half
+Successful,Forward,26,-45,3,47,0:04:20,second half
+Successful,Forward,10,-15,-14,29,0:04:49,second half
+Successful,Backward,-19,30,1,8,0:05:14,second half
+Successful,Backward,-18,-5,-24,-20,0:05:41,second half
+Successful,Backward,5,19,11,-6,0:05:51,second half
+Successful,Backward,-17,21,-28,-33,0:06:12,second half
+Successful,Forward,-29,-4,21,14,0:06:26,second half
+Successful,Forward,-1,-35,24,30,0:06:48,second half
+Successful,Backward,10,34,-29,-16,0:07:12,second half
+Successful,Forward,20,-49,-16,12,0:07:32,second half
+Successful,Forward,-12,-20,12,18,0:07:57,second half
+Successful,Backward,-19,-27,-25,-33,0:08:16,second half
+Successful,Forward,-24,-25,17,-9,0:08:35,second half
+Successful,Forward,3,-18,18,14,0:08:48,second half
+Successful,Forward,-19,20,-15,43,0:09:06,second half
+Successful,Forward,2,-37,11,13,0:09:20,second half
+Successful,Forward,-2,-6,-14,18,0:09:45,second half
+Successful,Backward,-4,36,19,21,0:10:05,second half
+Successful,Forward,-28,27,-26,36,0:10:32,second half
+Successful,Backward,7,16,-7,-2,0:10:49,second half
+Successful,Forward,16,-41,-22,-19,0:11:02,second half
+Successful,Backward,-18,0,-11,-8,0:11:16,second half
+Successful,Forward,-16,-36,27,17,0:11:28,second half
+Successful,Backward,-26,6,27,-28,0:11:39,second half
+Successful,Forward,-12,-32,29,-4,0:11:50,second half
+Successful,Backward,-9,13,20,-26,0:12:04,second half
+Successful,Forward,-29,-27,-3,-7,0:12:29,second half
+Successful,Forward,7,13,-3,17,0:12:46,second half
+Successful,Forward,-5,-49,-16,-38,0:13:07,second half
+Successful,Backward,-27,24,-9,-1,0:13:21,second half
+Successful,Backward,24,-12,18,-21,0:13:44,second half
+Unsuccessful,Backward,-29,-4,-9,-26,0:14:04,second half
+Successful,Backward,0,-31,24,-36,0:14:18,second half
+Successful,Forward,24,-31,-24,25,0:14:40,second half
+Successful,Forward,13,-44,-28,-19,0:15:09,second half
+Successful,Backward,-18,13,-14,-1,0:15:23,second half
+Successful,Backward,11,-2,5,-47,0:15:33,second half
+Unsuccessful,Forward,27,4,-16,23,0:15:45,second half
+Unsuccessful,Forward,22,-9,21,-7,0:16:08,second half
+Successful,Backward,-6,14,-17,-26,0:16:18,second half
+Successful,Backward,-29,47,-13,-22,0:16:46,second half
+Successful,Forward,-28,-30,-6,-1,0:17:04,second half
+Successful,Backward,13,-6,8,-11,0:17:16,second half
+Successful,Forward,-6,-3,-7,41,0:17:36,second half
+Unsuccessful,Forward,-4,15,13,27,0:17:51,second half
+Successful,Backward,14,-1,20,-45,0:18:07,second half
+Successful,Forward,-12,-23,3,42,0:18:35,second half
+Successful,Backward,0,-27,-5,-42,0:18:53,second half
+Successful,Forward,24,-13,20,-2,0:19:15,second half
+Successful,Backward,26,0,19,-44,0:19:29,second half
+Successful,Forward,1,-40,-5,23,0:19:56,second half
+Successful,Backward,15,-4,27,-9,0:20:09,second half
+Successful,Forward,-19,-43,-29,6,0:20:19,second half
+Successful,Backward,6,16,15,-47,0:20:47,second half
+Successful,Backward,-12,24,-29,0,0:21:13,second half
+Successful,Backward,-25,-32,20,-48,0:21:42,second half
+Successful,Forward,29,-41,4,-36,0:22:03,second half
+Successful,Backward,-10,7,11,-48,0:22:30,second half
+Successful,Forward,8,-8,21,0,0:22:51,second half
+Unsuccessful,Backward,-15,23,26,-29,0:23:01,second half
+Successful,Backward,10,15,16,1,0:23:27,second half
+Successful,Backward,6,3,-20,-46,0:23:41,second half
+Successful,Forward,-1,-29,-6,24,0:24:05,second half
+Successful,Forward,-16,-30,3,37,0:24:34,second half
+Successful,Forward,-6,-13,-28,0,0:24:47,second half
+Successful,Forward,12,-43,-28,22,0:25:00,second half
+Successful,Backward,11,-11,-10,-12,0:25:24,second half
+Successful,Backward,15,-42,-16,-45,0:25:45,second half
+Successful,Backward,-21,-2,10,-44,0:26:01,second half
+Successful,Forward,16,3,-14,20,0:26:28,second half
+Successful,Backward,6,-45,13,-48,0:26:50,second half
+Successful,Backward,-28,33,13,-24,0:27:05,second half
+Unsuccessful,Backward,15,-3,-17,-45,0:27:24,second half
+Successful,Backward,18,-23,3,-38,0:27:42,second half
+Successful,Backward,14,23,25,-47,0:27:54,second half
+Successful,Forward,-4,-18,-15,49,0:28:04,second half
+Unsuccessful,Forward,21,-19,-19,23,0:28:27,second half
+Successful,Sideways,15,-20,0,-20,0:28:56,second half
+Successful,Forward,23,-1,-2,49,0:29:15,second half
+Successful,Backward,-23,10,19,-43,0:29:27,second half
+Unsuccessful,Forward,-14,-38,-6,-31,0:29:37,second half
+Unsuccessful,Backward,25,40,0,-1,0:29:55,second half
+Successful,Forward,-22,-8,14,46,0:30:24,second half
+Successful,Forward,28,-25,0,45,0:30:53,second half
+Successful,Backward,2,34,25,-6,0:31:06,second half
+Successful,Forward,1,-30,29,-5,0:31:18,second half
+Successful,Backward,-27,15,-10,-30,0:31:39,second half
+Successful,Forward,16,10,25,11,0:31:51,second half
+Unsuccessful,Backward,-4,49,27,-34,0:32:07,second half
+Successful,Backward,11,39,3,-1,0:32:29,second half
+Successful,Backward,-4,46,-24,0,0:32:40,second half
+Successful,Backward,9,0,28,-43,0:33:04,second half
+Successful,Forward,22,1,29,36,0:33:27,second half
+Successful,Backward,29,8,-6,-23,0:33:50,second half
+Successful,Forward,-27,-43,10,26,0:34:00,second half
+Successful,Backward,-10,25,19,-40,0:34:15,second half
+Successful,Backward,5,44,1,-19,0:34:41,second half
+Successful,Forward,25,8,-25,28,0:34:58,second half
+Unsuccessful,Forward,-6,32,0,45,0:35:25,second half
+Unsuccessful,Forward,-24,-49,-9,-31,0:35:42,second half
+Successful,Forward,10,19,5,29,0:35:52,second half
+Successful,Backward,21,47,21,27,0:36:17,second half
+Unsuccessful,Forward,10,-39,-16,-35,0:36:38,second half
+Unsuccessful,Backward,15,39,-17,-26,0:37:02,second half
+Successful,Backward,12,8,23,-34,0:37:13,second half
+Successful,Backward,28,28,-21,-32,0:37:41,second half
+Successful,Forward,-25,-13,-3,-12,0:37:52,second half
+Successful,Backward,-3,22,-7,-38,0:38:18,second half
+Successful,Forward,22,-32,11,7,0:38:45,second half
+Successful,Backward,-11,46,-5,-36,0:39:11,second half
+Successful,Forward,7,-44,15,9,0:39:28,second half
+Successful,Forward,19,-41,9,-2,0:39:57,second half
+Successful,Backward,0,-19,-19,-42,0:40:11,second half
+Successful,Backward,-13,27,-21,-48,0:40:26,second half
+Successful,Backward,-16,-30,-5,-42,0:40:48,second half
+Successful,Forward,-18,-48,-25,-31,0:41:08,second half
+Successful,Forward,-12,-37,-6,25,0:41:31,second half
+Successful,Backward,11,16,11,-32,0:41:45,second half
+Unsuccessful,Backward,-11,27,-8,11,0:41:58,second half
+Unsuccessful,Backward,-13,48,6,32,0:42:25,second half
+Successful,Forward,-19,-48,19,-17,0:42:50,second half
+Successful,Backward,13,32,26,-15,0:43:02,second half
+Unsuccessful,Backward,27,-32,-28,-45,0:43:15,second half
+Successful,Backward,-15,32,4,-8,0:43:38,second half
+Successful,Forward,15,16,-11,38,0:44:06,second half
+Successful,Backward,-29,47,-3,-33,0:44:23,second half
+Successful,Forward,-5,-44,-12,21,0:44:47,second half
+Successful,Forward,22,-22,16,-19,0:45:00,second half
+Successful,Forward,5,-45,22,43,0:45:14,second half
+Unsuccessful,Forward,-20,-47,24,-37,0:45:26,second half
+Successful,Forward,-19,-44,9,48,0:45:40,second half
+Successful,Forward,-29,-23,-3,-5,0:46:07,second half
+Unsuccessful,Forward,-24,-46,-23,23,0:46:21,second half
+Successful,Forward,-8,-43,9,42,0:46:39,second half
+Successful,Backward,17,-28,-7,-37,0:46:57,second half
+Successful,Forward,-18,-31,24,31,0:47:16,second half
+Unsuccessful,Backward,-24,49,12,4,0:47:38,second half
+Successful,Backward,-25,-1,-10,-25,0:47:55,second half
+Successful,Backward,-26,22,-25,-5,0:48:10,second half
+Successful,Forward,-26,11,-12,31,0:48:31,second half
+Successful,Backward,-29,43,28,24,0:48:41,second half
+Successful,Backward,21,9,10,6,0:49:08,second half
+Successful,Backward,-5,20,3,-12,0:49:35,second half
+Successful,Backward,1,39,-5,0,0:50:00,second half
+Successful,Backward,14,12,-2,-26,0:50:23,second half
+Successful,Forward,-10,-29,20,-9,0:50:35,second half
+Successful,Backward,28,2,-2,-13,0:50:58,second half
+Unsuccessful,Backward,-21,19,5,-13,0:51:17,second half
+Unsuccessful,Backward,-28,-2,20,-30,0:51:37,second half
+Successful,Backward,18,33,-11,0,0:52:06,second half
+Successful,Forward,-11,-10,-15,36,0:52:21,second half
+Successful,Backward,-9,-21,0,-32,0:52:42,second half
+Successful,Forward,3,42,0,45,0:52:57,second half
+Successful,Backward,-3,-38,-21,-49,0:53:12,second half
+Successful,Backward,-11,49,-26,48,0:53:41,second half
+Successful,Backward,20,48,-16,29,0:54:01,second half
+Successful,Backward,22,25,-9,0,0:54:19,second half
+Unsuccessful,Backward,16,12,-27,11,0:54:29,second half
+Successful,Forward,17,-36,-16,29,0:54:50,second half
+Successful,Forward,-19,-42,-29,-8,0:55:01,second half
+Successful,Backward,26,40,20,-35,0:55:19,second half
+Successful,Forward,22,-34,26,13,0:55:30,second half
+Successful,Forward,-25,-35,16,48,0:55:41,second half
+Successful,Forward,-26,-28,-18,27,0:56:03,second half
+Successful,Forward,25,-39,-27,18,0:56:28,second half
+Successful,Backward,-19,25,12,21,0:56:47,second half
+Successful,Backward,-9,11,4,-42,0:57:02,second half
+Successful,Backward,16,28,19,-30,0:57:14,second half
+Successful,Backward,-6,49,-16,6,0:57:30,second half
+Successful,Forward,-13,-18,23,20,0:57:40,second half
+Unsuccessful,Forward,9,-41,21,-31,0:57:50,second half
+Successful,Forward,-14,-36,-3,41,0:58:08,second half
+Successful,Forward,17,3,-6,30,0:58:26,second half
+Unsuccessful,Forward,1,-14,-6,-9,0:58:40,second half
+Successful,Backward,-24,14,14,-27,0:58:53,second half
+Unsuccessful,Backward,27,12,-6,-21,0:59:04,second half
+Unsuccessful,Forward,0,-5,21,40,0:00:00,first half of extra time
+Successful,Backward,-18,-7,-14,-16,0:00:11,first half of extra time
+Successful,Forward,-10,-19,12,40,0:00:29,first half of extra time
+Successful,Forward,11,20,9,37,0:00:51,first half of extra time
+Unsuccessful,Forward,-5,-49,8,-34,0:01:17,first half of extra time
+Unsuccessful,Forward,-18,-10,8,42,0:01:30,first half of extra time
+Successful,Forward,-1,-32,-9,-27,0:01:48,first half of extra time
+Successful,Backward,-8,39,-19,-4,0:02:06,first half of extra time
+Unsuccessful,Forward,-12,1,-14,43,0:02:34,first half of extra time
+Successful,Forward,19,-33,-29,-22,0:02:58,first half of extra time
+Unsuccessful,Backward,16,6,-5,-22,0:03:11,first half of extra time
+Successful,Forward,13,-28,26,-21,0:03:32,first half of extra time
+Successful,Forward,-25,-6,-10,46,0:03:47,first half of extra time
+Successful,Forward,-16,15,-20,45,0:03:58,first half of extra time
+Unsuccessful,Backward,19,13,-12,-31,0:04:12,first half of extra time
+Successful,Forward,14,-48,10,-5,0:04:27,first half of extra time
+Successful,Backward,-16,2,14,-16,0:04:49,first half of extra time
+Successful,Backward,13,36,-23,-48,0:05:01,first half of extra time
+Successful,Forward,23,-45,-12,5,0:05:21,first half of extra time
+Successful,Backward,18,38,-10,-6,0:05:49,first half of extra time
+Unsuccessful,Forward,17,-39,12,7,0:06:05,first half of extra time
+Successful,Backward,-16,35,10,33,0:06:34,first half of extra time
+Successful,Forward,27,-14,18,4,0:07:03,first half of extra time
+Successful,Forward,-13,10,-4,49,0:07:20,first half of extra time
+Successful,Forward,-23,-22,8,49,0:07:30,first half of extra time
+Successful,Forward,2,-47,8,-41,0:07:54,first half of extra time
+Successful,Forward,2,-24,-5,22,0:08:09,first half of extra time
+Unsuccessful,Forward,16,-35,-21,39,0:08:21,first half of extra time
+Successful,Backward,3,7,1,-19,0:08:33,first half of extra time
+Successful,Backward,-24,-24,-11,-47,0:09:01,first half of extra time
+Successful,Backward,0,0,28,-47,0:09:17,first half of extra time
+Successful,Backward,-15,24,3,-10,0:09:33,first half of extra time
+Successful,Forward,19,-22,-21,-17,0:09:43,first half of extra time
+Successful,Forward,-11,-9,27,36,0:10:06,first half of extra time
+Unsuccessful,Backward,2,-29,-2,-31,0:10:27,first half of extra time
+Unsuccessful,Forward,-21,-14,20,44,0:10:47,first half of extra time
+Successful,Forward,23,-45,16,-28,0:10:58,first half of extra time
+Successful,Backward,23,26,20,-9,0:11:20,first half of extra time
+Successful,Backward,25,44,-7,9,0:11:46,first half of extra time
+Successful,Backward,-8,47,27,-46,0:12:12,first half of extra time
+Unsuccessful,Forward,-25,2,-8,32,0:12:38,first half of extra time
+Successful,Forward,12,13,-3,15,0:13:01,first half of extra time
+Unsuccessful,Backward,-17,38,-2,-3,0:13:24,first half of extra time
+Successful,Forward,-8,-12,-8,22,0:13:46,first half of extra time
+Successful,Backward,-24,48,-2,0,0:13:56,first half of extra time
+Successful,Backward,1,42,-7,-41,0:14:18,first half of extra time
+Successful,Forward,-22,-31,10,39,0:14:37,first half of extra time
+Successful,Backward,20,32,-10,-17,0:14:56,first half of extra time
+Successful,Forward,19,-30,6,41,0:15:25,first half of extra time
+Unsuccessful,Forward,0,-38,-22,-11,0:15:51,first half of extra time
+Unsuccessful,Forward,0,-36,24,33,0:16:05,first half of extra time
+Unsuccessful,Forward,29,38,21,46,0:16:28,first half of extra time
+Unsuccessful,Forward,22,25,9,27,0:16:40,first half of extra time
+Unsuccessful,Forward,1,-48,0,-8,0:17:07,first half of extra time
+Successful,Forward,22,-27,4,-2,0:17:29,first half of extra time
+Successful,Forward,19,-35,1,18,0:17:44,first half of extra time
+Successful,Backward,0,46,8,-37,0:17:59,first half of extra time
+Successful,Forward,-23,-34,13,4,0:18:10,first half of extra time
+Successful,Forward,-16,-35,12,-4,0:18:37,first half of extra time
+Successful,Forward,-3,-40,-17,-18,0:19:04,first half of extra time
+Successful,Forward,-8,-46,-2,15,0:00:00,second half of extra time
+Successful,Forward,16,-1,-8,16,0:00:20,second half of extra time
+Unsuccessful,Forward,-7,43,-8,47,0:00:40,second half of extra time
+Successful,Forward,1,-30,-11,-7,0:01:01,second half of extra time
+Successful,Forward,9,-42,25,-35,0:01:18,second half of extra time
+Unsuccessful,Backward,-23,38,19,-41,0:01:28,second half of extra time
+Successful,Backward,0,5,20,-10,0:01:39,second half of extra time
+Successful,Backward,-21,45,18,-44,0:02:00,second half of extra time
+Successful,Forward,0,-13,-5,40,0:02:28,second half of extra time
+Successful,Forward,-2,-41,-28,14,0:02:54,second half of extra time
+Successful,Forward,-22,-27,-5,-9,0:03:05,second half of extra time
+Successful,Forward,-11,-24,14,44,0:03:26,second half of extra time
+Successful,Backward,-6,43,2,26,0:03:50,second half of extra time
+Successful,Backward,-6,42,24,12,0:04:09,second half of extra time
+Unsuccessful,Backward,6,28,1,16,0:04:32,second half of extra time
+Unsuccessful,Forward,13,-43,15,-15,0:04:47,second half of extra time
+Successful,Forward,-26,1,-17,47,0:04:58,second half of extra time
+Unsuccessful,Backward,-26,42,15,-45,0:05:17,second half of extra time
+Unsuccessful,Backward,4,25,-20,-9,0:05:44,second half of extra time
+Successful,Backward,-28,-7,-12,-8,0:06:02,second half of extra time
+Successful,Forward,1,-44,-19,-23,0:06:27,second half of extra time
+Successful,Backward,-20,-18,-10,-25,0:06:55,second half of extra time
+Successful,Backward,1,24,-1,-46,0:07:18,second half of extra time
+Successful,Forward,26,-31,13,36,0:07:29,second half of extra time
+Successful,Backward,-4,46,19,-5,0:07:49,second half of extra time
+Unsuccessful,Backward,-24,30,-23,1,0:08:16,second half of extra time
+Unsuccessful,Forward,-24,-40,13,-16,0:08:42,second half of extra time
+Successful,Forward,-29,-41,3,-26,0:09:06,second half of extra time
+Successful,Forward,-11,-32,16,-21,0:09:33,second half of extra time
+Successful,Backward,-10,1,-22,-4,0:09:48,second half of extra time
+Successful,Backward,23,-11,11,-40,0:10:08,second half of extra time
+Successful,Forward,-10,24,7,44,0:10:25,second half of extra time
+Successful,Forward,18,-20,-5,8,0:10:50,second half of extra time
+Successful,Backward,-29,25,25,-37,0:11:17,second half of extra time
+Unsuccessful,Forward,-18,-18,7,30,0:11:34,second half of extra time
+Successful,Backward,23,43,22,-28,0:11:58,second half of extra time
+Successful,Forward,-27,-14,21,-4,0:12:10,second half of extra time
+Successful,Forward,24,1,-15,14,0:12:25,second half of extra time
+Successful,Backward,-26,19,-2,-39,0:12:52,second half of extra time
+Successful,Forward,26,-33,10,46,0:13:06,second half of extra time
+Successful,Backward,26,18,-4,-27,0:13:28,second half of extra time
+Successful,Backward,-24,0,29,-43,0:13:53,second half of extra time
+Unsuccessful,Backward,18,-8,0,-39,0:14:11,second half of extra time
+Successful,Backward,-29,-33,-21,-48,0:14:33,second half of extra time
+Successful,Forward,23,-7,-29,-2,0:14:50,second half of extra time
+Successful,Forward,2,-6,-8,42,0:15:04,second half of extra time
+Unsuccessful,Backward,21,36,-27,-22,0:15:17,second half of extra time
+Successful,Forward,-15,-22,9,26,0:15:46,second half of extra time
+Successful,Backward,-12,45,21,8,0:16:06,second half of extra time
+Successful,Backward,-21,29,-7,-38,0:16:30,second half of extra time
+Successful,Forward,19,-28,-12,-16,0:16:58,second half of extra time
+Successful,Backward,-18,37,-7,-1,0:17:10,second half of extra time
+Successful,Backward,-23,29,9,-33,0:17:30,second half of extra time
+Successful,Forward,2,-30,-11,2,0:17:51,second half of extra time
+,,,,,,,
+Longest successful forward pass sequence (first of longest length):,,,,,,,
+Successful,Forward,-24,-25,17,-9,0:08:35,second half
+Successful,Forward,3,-18,18,14,0:08:48,second half
+Successful,Forward,-19,20,-15,43,0:09:06,second half
+Successful,Forward,2,-37,11,13,0:09:20,second half
+Successful,Forward,-2,-6,-14,18,0:09:45,second half
+Longest successful forward pass sequences (multiple sequences of equal longest length):,,,,,,,
+Successful,Forward,-24,-25,17,-9,0:08:35,second half
+Successful,Forward,3,-18,18,14,0:08:48,second half
+Successful,Forward,-19,20,-15,43,0:09:06,second half
+Successful,Forward,2,-37,11,13,0:09:20,second half
+Successful,Forward,-2,-6,-14,18,0:09:45,second half
+,,,,,,,
+Successful,Forward,27,-14,18,4,0:07:03,first half of extra time
+Successful,Forward,-13,10,-4,49,0:07:20,first half of extra time
+Successful,Forward,-23,-22,8,49,0:07:30,first half of extra time
+Successful,Forward,2,-47,8,-41,0:07:54,first half of extra time
+Successful,Forward,2,-24,-5,22,0:08:09,first half of extra time
+,,,,,,,
+Successful,Forward,-23,-34,13,4,0:18:10,first half of extra time
+Successful,Forward,-16,-35,12,-4,0:18:37,first half of extra time
+Successful,Forward,-3,-40,-17,-18,0:19:04,first half of extra time
+Successful,Forward,-8,-46,-2,15,0:00:00,second half of extra time
+Successful,Forward,16,-1,-8,16,0:00:20,second half of extra time
