@@ -10,6 +10,7 @@
 
 | Criteria       | Description                                                                                      | Points |
 |----------------|--------------------------------------------------------------------------------------------------|--------|
+|||
 | Variable names | **Purposeful and reasonable variable names at all places**                                           | **5**      |
 |                | Purposeful and reasonable variable names at most places                                          | 3      |
 |                | Purposeful and reasonable variable names at no place                                              | 0      |
@@ -22,4 +23,5 @@
 | Logic          | **Logical approach to problem solving. Couldn't find any place that warrants any significant improvement** | **5**      |
 |                | Logical approach to problem solving in most places, some sections were convoluted                 | 4      |
 |                | Convoluted and/or poor logic throughout the program                                               | 0      |
+|||
 |**TOTAL**          |                                                                                                   |**18**       |
