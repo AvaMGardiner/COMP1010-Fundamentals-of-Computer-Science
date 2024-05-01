@@ -11,5 +11,5 @@
 
 ---
 
-[COMP1010_Assignment_3.pdf](https://github.com/AvaMGardiner/COMP1010-Fundamentals-of-Computer-Science/files/15182012/COMP1010_Assignment_3.pdf)
-[assignment3.zip](https://github.com/AvaMGardiner/COMP1010-Fundamentals-of-Computer-Science/files/15182014/assignment3.zip)
+- [COMP1010_Assignment_3.pdf](https://github.com/AvaMGardiner/COMP1010-Fundamentals-of-Computer-Science/files/15182012/COMP1010_Assignment_3.pdf)
+- [assignment3.zip](https://github.com/AvaMGardiner/COMP1010-Fundamentals-of-Computer-Science/files/15182014/assignment3.zip)
