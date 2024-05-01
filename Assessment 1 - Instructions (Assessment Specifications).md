@@ -65,7 +65,7 @@ However, if your code works for a generic data set, you don't need to worry.
 
 Bottom line: **DON'T HARD-CODE**
 
-**Relevant video:**  
+**Relevant video:** [Tracing an Error when a JUnit Test Cas…](https://www.youtube.com/watch?list=PL25sMKw559Gg9xlmLVLkmpS5XZJ-pvCd-&v=ySeBxF-LtH4)![](Aspose.Words.d6cbeacc-fee8-49f7-a51e-c2cb16acdf1d.003.png) 
 
 ---
 
