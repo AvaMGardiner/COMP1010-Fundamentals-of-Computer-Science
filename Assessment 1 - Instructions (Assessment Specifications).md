@@ -20,7 +20,7 @@ Relevant video:
 
 **Introduction**
 
-Assignment 1 deals with handling a very fundamental data structure - an array of arrays. The array data inside class Analytics.java is an instance variable and thus automatically available in all the functions. (We will talk about this in weeks 3 and 4). There are 10 functions (plus 2 non-assessed) that operate on this array and other parameters, where required. The description of each function is above the header.
+Assignment 1 deals with handling a very fundamental data structure - an array of arrays. The array **data** inside class **Analytics.java** is an instance variable and thus automatically available in all the functions. (We will talk about this in weeks 3 and 4). There are 10 functions (plus 2 non-assessed) that operate on this array and other parameters, where required. The description of each function is above the header.
 
 Relevant video:
 
