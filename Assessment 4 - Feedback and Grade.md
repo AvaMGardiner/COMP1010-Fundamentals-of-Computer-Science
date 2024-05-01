@@ -4,7 +4,7 @@
 
 **Graded on:** Sunday, 13 June 2021, 4:57 PM
 
-**Graded by:** DSDaniel Sutantyo
+**Graded by:** Daniel Sutantyo
 
 ## Grade breakdown
 
