@@ -8,8 +8,6 @@
 
 ## Grade breakdown
 
-### Rubric
-
 | Criteria       | Description                                                                                      | Points |
 |----------------|--------------------------------------------------------------------------------------------------|--------|
 | Variable names | **Purposeful and reasonable variable names at all places**                                           | **5**      |
