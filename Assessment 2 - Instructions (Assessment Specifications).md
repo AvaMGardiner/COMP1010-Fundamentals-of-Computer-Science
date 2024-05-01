@@ -37,7 +37,7 @@ We will assess you on coding style in this assignment. It is a topic embedded th
 
 if(x < y) {
 
-   //do nothing }
+`   `//do nothing }
 
 else {
 
@@ -53,7 +53,7 @@ if(x >= y) {
 
 } 
 
-**EXAMPLE 2:![](Aspose.Words.ab15325b-ce24-4a9b-bd21-38117d540ea8.002.png)**
+**EXAMPLE 2:**
 
 public static boolean containsNeg(int[] a) {    boolean foundNeg = false;
 
@@ -93,7 +93,9 @@ public static boolean containsNeg(int[] a) {    for(int i=0; i < a.length; i++) 
 
 **Grade distribution**
 
-VideoAnalytics (76 marks) Auto-marked VideoAnalyticsClient (4 marks) Auto-marked Coding Style (20 marks) Hand-marked
+- VideoAnalytics (76 marks) Auto-marked
+- VideoAnalyticsClient (4 marks) Auto-marked
+- Coding Style (20 marks) Hand-marked
 
 **Submission Format**
 
@@ -107,37 +109,9 @@ Use of functions from outside the submitted files will result in an automatic ze
 
 Unfortunately, I have to add this section because of a very small percentage of students. So, here we go -
 
-20 marks penalty for not adding student declaration at the top of **VideoAnalytics.java.**
-
-Any compilation error and/or infinite loop in ANY of the submitted files will result in an automatics zero.
-
-Submissions must be self-contained and not require any other file (besides my test files) to execute. Any dependency on an external file will result in an automatic zero.
-
-Changing any package declaration in any file will result in an automatic zero.
-
-Adding any import statement in any file will result in an automatic zero.
-
-Use of functions from outside the submitted files will result in an automatic zero.
-
-![](Aspose.Words.ab15325b-ce24-4a9b-bd21-38117d540ea8.003.png)![](Aspose.Words.ab15325b-ce24-4a9b-bd21-38117d540ea8.004.png) [assignment2template.zip](https://ilearn.mq.edu.au/pluginfile.php/6952312/mod_assign/introattachment/0/assignment2template.zip?forcedownload=1) 22 March 2021, 4:26 PM
-
-**Feedback**
-
-**Grade** 18.00 / 20.00
-
-**Graded on** Thursday, 15 April 2021, 7:13 PM
-
-**Graded by** [DS ](https://ilearn.mq.edu.au/user/view.php?id=1684&course=50644)![](Aspose.Words.ab15325b-ce24-4a9b-bd21-38117d540ea8.005.png)Daniel Sutantyo![](Aspose.Words.ab15325b-ce24-4a9b-bd21-38117d540ea8.006.png)
-
-**Grade breakdown**
-
-
-
-|**Variable names**|Purposeful and reasonable variable names at all places ***5 points***|<p>Purposeful and reasonable variable names at most places</p><p>***3 points***</p>|Purposeful and reasonable variable names at no place ***0 points***||
-| - | - | :- | - | :- |
-|**Commenting**|<p>Commenting provided where warranted</p><p>***5 points***</p>|Some aspects of code not commented, but most were ***3 points***|<p>Negligible commenting in the program</p><p>***0 points***</p>||
-|**Indentation**|Well-indented code ***5 points***|<p>Well-indented code at most places but some sections not indented</p><p>***3 points***</p>|Very poor indentation ***0 points***||
-|**Logic**|Logical approach to problem solving. Couldn't find any place that warrants any significant improvement ***5 points***|<p>Logical approach to problem solving in most places, some sections were convoluted</p><p>***4 points***</p>|<p>Convoluted and/or poor logic throughout the program</p><p>***0 points***</p>||
-[◄ Assignment 1 ](https://ilearn.mq.edu.au/mod/assign/view.php?id=6252974&forceview=1)Jump to...
-
-[Assignment 3 forum ►](https://ilearn.mq.edu.au/mod/forum/view.php?id=6252980&forceview=1)
+- 20 marks penalty for not adding student declaration at the top of **VideoAnalytics.java.**
+- Any compilation error and/or infinite loop in ANY of the submitted files will result in an automatics zero.
+- Submissions must be self-contained and not require any other file (besides my test files) to execute. Any dependency on an external file will result in an automatic zero.
+- Changing any package declaration in any file will result in an automatic zero.
+- Adding any import statement in any file will result in an automatic zero.
+- Use of functions from outside the submitted files will result in an automatic zero.
