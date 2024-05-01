@@ -123,3 +123,7 @@ Unfortunately, I have to add this section because of a very small percentage of 
 - Changing any package declaration in any file will result in an automatic zero.
 - Adding any import statement in any file will result in an automatic zero.
 - Use of functions from outside the submitted files will result in an automatic zero.
+
+---
+
+- [assignment2template.zip](https://github.com/AvaMGardiner/COMP1010-Fundamentals-of-Computer-Science/files/15182019/assignment2template.zip)
