@@ -1,20 +1,18 @@
-**Opened:** Sunday, 2 August 2020, 12:00 AM ![](Aspose.Words.d6cbeacc-fee8-49f7-a51e-c2cb16acdf1d.001.png)**Due:** Tuesday, 16 March 2021, 9:00 PM
-
-**Assignment 1**
+# Assignment 1
 
 **Due 16th March 21:00, Worth 5%**
 
-**Starting point/ Template: assignment1template.zip (bottom of the page)**
+**Starting point/ Template: <u>assignment1template.zip</u>(bottom of the page)**
 
 Import into Eclipse using:
 
 1. File
-1. Import
-1. General
-1. Existing projects into workspace
-1. Select Archive File
-1. Browse for file
-1. Finish
+2. Import
+3. General
+4. Existing projects into workspace
+5. Select Archive File
+6. Browse for file
+7. Finish
 
 Relevant video:
 
@@ -26,15 +24,13 @@ Assignment 1 deals with handling a very fundamental data structure - an array of
 
 Relevant video:
 
-
-
 [Arrays #6: Multi-Dimensional Arrays](https://www.youtube.com/watch?list=PL25sMKw559Gg9xlmLVLkmpS5XZJ-pvCd-&v=TgGm7lScfeA)![](Aspose.Words.d6cbeacc-fee8-49f7-a51e-c2cb16acdf1d.002.png)
 
-(Also, the videos prefixed with Array Problems in the same YouTube Playlist will be very useful.
+(Also, the videos prefixed with **Array Problems** in the same YouTube Playlist will be very useful.
 
 **Grade distribution**
 
-Your job is to code each of the 10 methods in Analytics.java and pass the corresponding tests in AnalyticsTest.java. There are 4 tests for each method (P, CR, D, HD). Pass level tests are the most basic and HD level tests are the most comprehensive.
+Your job is to code each of the 10 methods in **Analytics.java** and pass the corresponding tests in **AnalyticsTest.java**. There are 4 tests for each method (P, CR, D, HD). Pass level tests are the most basic and HD level tests are the most comprehensive.
 
 **IMPORTANT** Note that the instance variable (the array of array of integers: data) can be accessed inside any of the functions without having to pass it as a parameter. As an example, assuming the third item of the fifth sub-array exists, we can access it (say, for displaying) as,
 
@@ -66,48 +62,43 @@ Relevant video:
 
 **Use of functions outside the class**
 
-You cannot use any function that is not defined in the class. So, you cannot use Math.abs(double) or Arrays.toString() and so on. **YOU WILL BE GIVEN A ZERO IF YOU USE AN EXTERNAL FUNCTION**
+You cannot use any function that is not defined in the class. So, you cannot use **Math.abs(double)** or **Arrays.toString()** and so on. 
+
+**YOU WILL BE GIVEN A ZERO IF YOU USE AN EXTERNAL FUNCTION**
 
 **Coding style**
 
 We are not going to mark coding style in assignment 1, but we will mark it in one of the later assignments. Make sure you,
 
 1. Indent your code correctly. <https://en.wikipedia.org/wiki/Indentation_style>
-1. Use consistent coding style (C-style indentation with C-style variable naming OR Java-style indentation with Java-style variable naming) and stick with it throughout the submission.
-1. Have documentation in the form of comments where required. Especially important for non-trivial implementations.
+2. Use consistent coding style (C-style indentation with C-style variable naming OR Java-style indentation with Java-style variable naming) and stick with it throughout the submission.
+3. Have documentation in the form of comments where required. Especially important for non-trivial implementations.
 
 **Breach of academic integrity**
 
-You must add your Student ID, Name at the top of Analytics.java and put an x in the square brackets to confirm that you haven't viewed any other person's code. If your code is found to be similar to other students, you will be referred to the faculty disciplinary committee (FDC) and it's a painful process. So, make sure you design and write your own code and don't even look at another person's code.
+You must add your Student ID, Name at the top of **Analytics.java** and put an **x** in the square brackets to confirm that you haven't viewed any other person's code. If your code is found to be similar to other students, you will be referred to the faculty disciplinary committee (FDC) and it's a painful process. So, make sure you design and write your own code and don't even look at another person's code.
 
-Make sure you update the top of Analytics.java with the information required. For example:
+Make sure you update the top of **Analytics.java** with the information required. For example:
 
 //Gaurav Gupta
-
 //40404040
-
-//[x]   I confirm this is my own work (in design and implementation) //      and that I have not viewed another student's code OR design.
+//[x]   I confirm this is my own work (in design and implementation) 
+//      and that I have not viewed another student's code OR design.
 
 **Submission**
 
-Submit only file Analytics.java by dragging from Eclipse package explorer and dropping it right into the submission box. Do not drag AnalyticsTest.java or Analytics.class accidentally.
+Submit only file **Analytics.java** by dragging from Eclipse package explorer and dropping it right into the submission box. Do not drag **AnalyticsTest.java** or **Analytics.class** accidentally.
 
-DO NOT RENAME THE FILE. WE NEED THE FILE TO BE NAMED Analytics.java
+DO NOT RENAME THE FILE. WE NEED THE FILE TO BE NAMED **Analytics.java**
 
 You can make the submission as many times as you want, and only the last submission will be marked. If you make a submission after the due date, a late penalty will be applied at the rate of 20% per day or part of (1 second to 24 hours: 20%, 24 hours 1 second to 48 hours: 40%, and so on). For example, if your raw mark is 68 and it's late by 1 second, your mark will be reduced to 48.
 
-Any errors in submission (compilation error, even because of a single extra curly bracket or a missing semi-colon), any file with a different name than the required one (Analytics.java), any programs that take longer than 5 seconds to run, use of external functions will automatically get a zero.
+Any errors in submission (compilation error, even because of a single extra curly bracket or a missing semi-colon), any file with a different name than the required one (**Analytics.java**), any programs that take longer than 5 seconds to run, use of external functions will automatically get a zero.
 
 All the best!
 
-![](Aspose.Words.d6cbeacc-fee8-49f7-a51e-c2cb16acdf1d.004.png)![](Aspose.Words.d6cbeacc-fee8-49f7-a51e-c2cb16acdf1d.005.png) [assignment1template.zip](https://ilearn.mq.edu.au/pluginfile.php/6952310/mod_assign/introattachment/0/assignment1template.zip?forcedownload=1) 1 March 2021, 1:55 PM
-
-**Feedback![](Aspose.Words.d6cbeacc-fee8-49f7-a51e-c2cb16acdf1d.006.png)**
+**Feedback**
 
 **Grade** 100.00/100.00
 
 **Graded on** Thursday, 18 March 2021, 9:35 AM
-
-[◄ Copy of all practical material (since GitHub is blocked in China) **CORRECT UP TO, AND INCLUDING WEEK 12** ](https://ilearn.mq.edu.au/mod/resource/view.php?id=6384268&forceview=1)Jump to...
-
-[Assignment 2 coding style (out of 20) ►](https://ilearn.mq.edu.au/mod/assign/view.php?id=6252976&forceview=1)
