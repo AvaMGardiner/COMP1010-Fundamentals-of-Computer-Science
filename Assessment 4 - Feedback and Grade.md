@@ -21,4 +21,5 @@
 | Logic                             | Convoluted and/or poor logic throughout the program.                                                   | 0      |
 |                                   | Logical approach to problem solving in most places, but some parts were convoluted or were not attempted. | 3      |
 |                                   | **Clear and logical approach to problem solving. Couldn't find any place that warrants any significant improvement.** | **5**      |
+|**TOTAL**| | **20**|
 
