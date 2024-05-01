@@ -7,5 +7,5 @@
 
 **NOTE:** Any files besides **Game.java**, **Deck.java**, **Hand.java**, and **Word.java** will be discarded. For example, **Game (1).java** or **word.java** or **Assignment4.zip** will NOT be marked.
 
-[COMP1010_Assignment_4.pdf](https://github.com/AvaMGardiner/COMP1010-Fundamentals-of-Computer-Science/files/15181965/COMP1010_Assignment_4.pdf)
-[assignment4.zip](https://github.com/AvaMGardiner/COMP1010-Fundamentals-of-Computer-Science/files/15181964/assignment4.zip)
+- [COMP1010_Assignment_4.pdf](https://github.com/AvaMGardiner/COMP1010-Fundamentals-of-Computer-Science/files/15181965/COMP1010_Assignment_4.pdf)
+- [assignment4.zip](https://github.com/AvaMGardiner/COMP1010-Fundamentals-of-Computer-Science/files/15181964/assignment4.zip)
