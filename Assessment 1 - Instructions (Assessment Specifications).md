@@ -3,7 +3,7 @@
 Due 16th March 21:00, Worth 5%  
 Starting point/ Template: [assignment1template.zip](<ins>assignment1template.zip</ins>) (bottom of the page)  
 
-**Import into Eclipse using:**
+**Import into Eclipse Using:**
 
 1. File
 2. Import
@@ -27,7 +27,7 @@ Assignment 1 deals with handling a very fundamental data structure - an array of
 
 ---
 
-**Grade distribution**
+**Grade Distribution**
 
 Your job is to code each of the 10 methods in **Analytics.java** and pass the corresponding tests in **AnalyticsTest.java**. There are 4 tests for each method (P, CR, D, HD). Pass level tests are the most basic and HD level tests are the most comprehensive.
 
@@ -47,13 +47,13 @@ System.out.println(data[lastSubArrayIndex][lastItemOfLastSubArrayIndex]);
 
 ---
 
-**Helper functions**
+**Helper Functions**
 
 You can add other functions inside the class and call them in the functions you are supposed to complete. You can also use existing functions to help you with the more advanced functions if needed.
 
 ---
 
-**Note of JUnit test cases provided**
+**Note of JUnit Test Cases Provided**
 
 Understanding what the tests are asking will be critical to you solving the assignment.
 
@@ -69,7 +69,7 @@ Bottom line: **DON'T HARD-CODE**
 
 ---
 
-**Use of functions outside the class**
+**Use of Functions Outside the Class**
 
 You cannot use any function that is not defined in the class. So, you cannot use **Math.abs(double)** or **Arrays.toString()** and so on.
 
@@ -77,7 +77,7 @@ YOU WILL BE GIVEN A ZERO IF YOU USE AN EXTERNAL FUNCTION
 
 ---
 
-**Coding style**
+**Coding Style**
 
 We are not going to mark coding style in assignment 1, but we will mark it in one of the later assignments. Make sure you,
 
@@ -87,7 +87,7 @@ We are not going to mark coding style in assignment 1, but we will mark it in on
 
 ---
 
-**Breach of academic integrity**
+**Breach of Academic Integrity**
 
 You must add your Student ID, Name at the top of **Analytics.java** and put an x in the square brackets to confirm that you haven't viewed any other person's code. If your code is found to be similar to other students, you will be referred to the faculty disciplinary committee (FDC) and it's a painful process. So, make sure you design and write your own code and don't even look at another person's code.
 
