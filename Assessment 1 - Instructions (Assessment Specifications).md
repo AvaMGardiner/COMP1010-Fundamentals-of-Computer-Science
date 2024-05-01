@@ -19,17 +19,17 @@ Starting point/ Template: [assignment1template.zip](<ins>assignment1template.zip
 
 **Introduction**
 
-Assignment 1 deals with handling a very fundamental data structure - an array of arrays. The array data inside class Analytics.java is an instance variable and thus automatically available in all the functions. (We will talk about this in weeks 3 and 4). There are 10 functions (plus 2 non-assessed) that operate on this array and other parameters, where required. The description of each function is above the header.
+Assignment 1 deals with handling a very fundamental data structure - an array of arrays. The array **data** inside class **Analytics.java** is an instance variable and thus automatically available in all the functions. (We will talk about this in weeks 3 and 4). There are 10 functions (plus 2 non-assessed) that operate on this array and other parameters, where required. The description of each function is above the header.
 
 **Relevant Video:** [Arrays #6: Multi-Dimensional Arrays](https://www.youtube.com/watch?list=PL25sMKw559Gg9xlmLVLkmpS5XZJ-pvCd-&v=TgGm7lScfeA)
 
-(Also, the videos prefixed with Array Problems in the same YouTube Playlist will be very useful.)
+(Also, the videos prefixed with **Array Problems** in the same YouTube Playlist will be very useful.)
 
 ---
 
 **Grade distribution**
 
-Your job is to code each of the 10 methods in Analytics.java and pass the corresponding tests in AnalyticsTest.java. There are 4 tests for each method (P, CR, D, HD). Pass level tests are the most basic and HD level tests are the most comprehensive.
+Your job is to code each of the 10 methods in **Analytics.java** and pass the corresponding tests in **AnalyticsTest.java**. There are 4 tests for each method (P, CR, D, HD). Pass level tests are the most basic and HD level tests are the most comprehensive.
 
 **IMPORTANT** Note that the instance variable (the array of array of integers: data) can be accessed inside any of the functions without having to pass it as a parameter. As an example, assuming the third item of the fifth sub-array exists, we can access it (say, for displaying) as,
 
@@ -63,7 +63,7 @@ Therefore, passing these tests does not guarantee that you WILL get marks in the
 
 However, if your code works for a generic data set, you don't need to worry.
 
-Bottom line: DON'T HARD-CODE
+Bottom line: **DON'T HARD-CODE**
 
 **Relevant video:**  
 
@@ -71,7 +71,7 @@ Bottom line: DON'T HARD-CODE
 
 **Use of functions outside the class**
 
-You cannot use any function that is not defined in the class. So, you cannot use Math.abs(double) or Arrays.toString() and so on.
+You cannot use any function that is not defined in the class. So, you cannot use **Math.abs(double)** or **Arrays.toString()** and so on.
 
 YOU WILL BE GIVEN A ZERO IF YOU USE AN EXTERNAL FUNCTION
 
@@ -89,9 +89,9 @@ We are not going to mark coding style in assignment 1, but we will mark it in on
 
 **Breach of academic integrity**
 
-You must add your Student ID, Name at the top of Analytics.java and put an x in the square brackets to confirm that you haven't viewed any other person's code. If your code is found to be similar to other students, you will be referred to the faculty disciplinary committee (FDC) and it's a painful process. So, make sure you design and write your own code and don't even look at another person's code.
+You must add your Student ID, Name at the top of **Analytics.java** and put an x in the square brackets to confirm that you haven't viewed any other person's code. If your code is found to be similar to other students, you will be referred to the faculty disciplinary committee (FDC) and it's a painful process. So, make sure you design and write your own code and don't even look at another person's code.
 
-Make sure you update the top of Analytics.java with the information required.
+Make sure you update the top of **Analytics.java** with the information required.
 
 For example:
 
@@ -106,13 +106,13 @@ For example:
 
 **Submission**
 
-Submit only file Analytics.java by dragging from Eclipse package explorer and dropping it right into the submission box. Do not drag AnalyticsTest.java or Analytics.class accidentally.
+Submit only file **Analytics.java** by dragging from Eclipse package explorer and dropping it right into the submission box. Do not drag **AnalyticsTest.java** or **Analytics.class** accidentally.
 
-DO NOT RENAME THE FILE. WE NEED THE FILE TO BE NAMED Analytics.java
+DO NOT RENAME THE FILE. WE NEED THE FILE TO BE NAMED **Analytics.java**
 
 You can make the submission as many times as you want, and only the last one will be marked. If you make a submission after the due date, a late penalty will be applied at the rate of 20% per day or part of (1 second to 24 hours: 20%, 24 hours 1 second to 48 hours: 40%, and so on). For example, if your raw mark is 68 and it's late by 1 second, your mark will be reduced to 48.
 
-Any errors in submission (compilation error, even because of a single extra curly bracket or a missing semi-colon), any file with a different name than the required one (Analytics.java), any programs that take longer than 5 seconds to run, use of external functions will automatically get a zero grade.
+Any errors in submission (compilation error, even because of a single extra curly bracket or a missing semi-colon), any file with a different name than the required one (**Analytics.java**), any programs that take longer than 5 seconds to run, use of external functions will automatically get a zero grade.
 
 ---
 
