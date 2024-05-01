@@ -1,4 +1,3 @@
-```markdown
 # Assignment 1
 
 Due 16th March 21:00, Worth 5%  
