@@ -4,7 +4,7 @@
 
 **Graded on:** Thursday, 15 April 2021, 7:13 PM
 
-**Graded by:** DSDaniel Sutantyo
+**Graded by:** Daniel Sutantyo
 
 ## Grade breakdown
 
@@ -24,4 +24,4 @@
 | Logic          | **Logical approach to problem solving. Couldn't find any place that warrants any significant improvement** | **5**      |
 |                | Logical approach to problem solving in most places, some sections were convoluted                 | 4      |
 |                | Convoluted and/or poor logic throughout the program                                               | 0      |
-|Total           |                                                                                                   |18       |
+|**TOTAL**          |                                                                                                   |**18**       |
