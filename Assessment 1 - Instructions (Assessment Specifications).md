@@ -13,7 +13,7 @@ Starting point/ Template: [assignment1template.zip](<ins>assignment1template.zip
 6. Browse for file
 7. Finish
 
-**Relevant video:**  
+**Relevant Video:** [Importing Projects from Archive File](https://www.youtube.com/watch?list=PL25sMKw559Gg9xlmLVLkmpS5XZJ-pvCd-&v=enbPj-RvXdE)  
 
 ---
 
@@ -21,7 +21,7 @@ Starting point/ Template: [assignment1template.zip](<ins>assignment1template.zip
 
 Assignment 1 deals with handling a very fundamental data structure - an array of arrays. The array data inside class Analytics.java is an instance variable and thus automatically available in all the functions. (We will talk about this in weeks 3 and 4). There are 10 functions (plus 2 non-assessed) that operate on this array and other parameters, where required. The description of each function is above the header.
 
-**Relevant video:**  
+**Relevant Video:** [Arrays #6: Multi-Dimensional Arrays](https://www.youtube.com/watch?list=PL25sMKw559Gg9xlmLVLkmpS5XZJ-pvCd-&v=TgGm7lScfeA)
 
 (Also, the videos prefixed with Array Problems in the same YouTube Playlist will be very useful.)
 
