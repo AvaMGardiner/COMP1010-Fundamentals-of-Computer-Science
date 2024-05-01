@@ -9,5 +9,5 @@
 
 ---
 
-- [COMP1010-Fundamentals-of-Computer-Science/Assessment 4 - Instructions (Assessment Specifications).pdf]
-- [COMP1010-Fundamentals-of-Computer-Science/assignment4.zip]
+- [Assessment 4 - Instructions (Assessment Specifications)](https://github.com/AvaMGardiner/COMP1010-Fundamentals-of-Computer-Science/files/15181991/COMP1010_Assignment_4.pdf)
+
