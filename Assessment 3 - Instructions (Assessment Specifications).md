@@ -1,8 +1,8 @@
 # Assignment 3
 
-- Opened: Monday, 28 September 2020, 12:00 AM  
-- Due: Wednesday, 19 May 2021, 9:00 PM  
-
+- **Opened:** Monday, 28 September 2020, 12:00 AM  
+- **Due:** Wednesday, 19 May 2021, 9:00 PM  
+---
 **Specifications and Template provided below. Details in the specifications document.**
 
 **Primary content week 7 and 8 lectures.**
