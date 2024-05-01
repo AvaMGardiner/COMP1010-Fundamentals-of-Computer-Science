@@ -1,4 +1,4 @@
-# Assignment 4 coding style (out of 20)
+# Assignment 4 Coding Style (out of 20)
 
 - **Opened:** Friday, 21 May 2021, 12:00 AM
 - **Due:** Sunday, 6 June 2021, 9:00 PM
