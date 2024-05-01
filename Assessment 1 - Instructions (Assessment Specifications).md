@@ -117,3 +117,7 @@ Any errors in submission (compilation error, even because of a single extra curl
 ---
 
 Wishing you the best of luck! 
+
+---
+
+- [assignment1template.zip](https://github.com/AvaMGardiner/COMP1010-Fundamentals-of-Computer-Science/files/15182029/assignment1template.zip)
