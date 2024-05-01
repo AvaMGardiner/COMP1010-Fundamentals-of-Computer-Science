@@ -1,7 +1,7 @@
 # Assignment 1
 
 Due 16th March 21:00, Worth 5%  
-Starting point/ Template: [assignment1template.zip](<ins>assignment1template.zip</ins>) (bottom of the page)  
+Starting point/ Template: **assignment1template.zip**(bottom of the page)  
 
 **Import into Eclipse Using:**
 
