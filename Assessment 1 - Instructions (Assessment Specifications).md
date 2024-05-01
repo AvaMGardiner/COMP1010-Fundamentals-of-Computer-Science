@@ -1,98 +1,110 @@
 # Assignment 1
 
-**Due 16th March 21:00, Worth 5%**
+**Due Date:** 16th March, 21:00  
+**Weight:** 5%
 
-**Starting point/ Template: <ins>assignment1template.zip</ins> (bottom of the page)**
+**Starting Point/Template:** [assignment1template.zip](<ins>assignment1template.zip</ins>) (located at the bottom of the page)
 
-Import into Eclipse using:
+**Instructions for Importing into Eclipse:**
 
-1. File
-2. Import
-3. General
-4. Existing projects into workspace
-5. Select Archive File
-6. Browse for file
-7. Finish
+1. Open Eclipse.
+2. Go to `File`.
+3. Select `Import`.
+4. Choose `General`.
+5. Click on `Existing Projects into Workspace`.
+6. Select `Archive File`.
+7. Browse for the file.
+8. Click `Finish`.
 
-Relevant video:
+**Relevant Video:** [Importing Projects from Archive File](https://www.youtube.com/watch?list=PL25sMKw559Gg9xlmLVLkmpS5XZJ-pvCd-&v=enbPj-RvXdE)
 
-[Importing Projects from Archive File In …](https://www.youtube.com/watch?list=PL25sMKw559Gg9xlmLVLkmpS5XZJ-pvCd-&v=enbPj-RvXdE)
+---
 
 **Introduction**
 
-Assignment 1 deals with handling a very fundamental data structure - an array of arrays. The array **data** inside class **Analytics.java** is an instance variable and thus automatically available in all the functions. (We will talk about this in weeks 3 and 4). There are 10 functions (plus 2 non-assessed) that operate on this array and other parameters, where required. The description of each function is above the header.
+Assignment 1 involves working with a fundamental data structure - an array of arrays. The array **data** inside the class **Analytics.java** is an instance variable and is automatically available in all the functions. Detailed explanations will be provided in weeks 3 and 4. There are 10 functions (plus 2 non-assessed) that operate on this array and other parameters, where required. The description of each function is provided above the header.
 
-Relevant video:
+**Relevant Video:** [Arrays #6: Multi-Dimensional Arrays](https://www.youtube.com/watch?list=PL25sMKw559Gg9xlmLVLkmpS5XZJ-pvCd-&v=TgGm7lScfeA)
 
-[Arrays #6: Multi-Dimensional Arrays](https://www.youtube.com/watch?list=PL25sMKw559Gg9xlmLVLkmpS5XZJ-pvCd-&v=TgGm7lScfeA)![](Aspose.Words.d6cbeacc-fee8-49f7-a51e-c2cb16acdf1d.002.png)
+(Additionally, videos prefixed with **Array Problems** in the same YouTube Playlist will be beneficial.)
 
-(Also, the videos prefixed with **Array Problems** in the same YouTube Playlist will be very useful.
+---
 
-**Grade distribution**
+**Grade Distribution**
 
-Your job is to code each of the 10 methods in **Analytics.java** and pass the corresponding tests in **AnalyticsTest.java**. There are 4 tests for each method (P, CR, D, HD). Pass level tests are the most basic and HD level tests are the most comprehensive.
+Your task is to code each of the 10 methods in **Analytics.java** and pass the corresponding tests in **AnalyticsTest.java**. There are 4 tests for each method (P, CR, D, HD). Pass level tests are the most basic, while HD level tests are the most comprehensive.
 
-**IMPORTANT** Note that the instance variable (the array of array of integers: data) can be accessed inside any of the functions without having to pass it as a parameter. As an example, assuming the third item of the fifth sub-array exists, we can access it (say, for displaying) as,
+**Important Note:** The instance variable (the array of array of integers: data) can be accessed inside any of the functions without having to pass it as a parameter. For example:
 
+```java
 System.out.println(data[4][2]);
+```
 
-If we want to display the last item of the last sub-array (assuming the last sub-array is not null and it contains at least one item), that can be done as:
+To display the last item of the last sub-array (assuming it's not null and contains at least one item), you can use:
 
+```java
 int lastSubArrayIndex = data.length - 1;
+int lastItemOfLastSubArrayIndex = data[lastSubArrayIndex].length - 1;
+System.out.println(data[lastSubArrayIndex][lastItemOfLastSubArrayIndex]);
+```
 
-int lastItemOfLastSubArrayIndex = data[lastSubArrayIndex].length - 1; System.out.println(data[lastSubArrayIndex][lastItemOfLastSubArrayIndex]);
+---
 
-**Helper functions**
+**Helper Functions**
 
 You can add other functions inside the class and call them in the functions you are supposed to complete. You can also use existing functions to help you with the more advanced functions if needed.
 
-**Note of JUnit test cases provided**
+---
 
-Understanding what the tests are asking will be critical to you solving the assignment.
+**Note on JUnit Test Cases Provided**
 
-Note that the tests are for your convenience only and while it's likely that if your code passes the given tests, it will also pass the final tests, in a few cases students hard-code their solutions.
+Understanding what the tests are asking is crucial for solving the assignment.
 
-Therefore, passing these tests does not guarantee that you WILL get marks in the final test. We will test your code on another data set (nothing too absurd) to eliminate hard-coding. So, instead of 4 sub-arrays, I might use 40 sub-arrays, or I might negate each value.
+Note that while passing the given tests is likely to result in passing the final tests, some students may hard-code their solutions. Therefore, passing these tests does not guarantee marks in the final test. Your code will be tested on another dataset to prevent hard-coding.
 
-However, if your code works for a generic data set, you don't need to worry. Bottom line: **DON'T HARD-CODE**
+---
 
-Relevant video:
+**Use of Functions Outside the Class**
 
-[Tracing an Error when a JUnit Test Cas…](https://www.youtube.com/watch?list=PL25sMKw559Gg9xlmLVLkmpS5XZJ-pvCd-&v=ySeBxF-LtH4)![](Aspose.Words.d6cbeacc-fee8-49f7-a51e-c2cb16acdf1d.003.png)
+You cannot use any function that is not defined in the class. Avoid using functions like **Math.abs(double)** or **Arrays.toString()**.
 
-**Use of functions outside the class**
+**Using an external function will result in a zero grade.**
 
-You cannot use any function that is not defined in the class. So, you cannot use **Math.abs(double)** or **Arrays.toString()** and so on. 
+---
 
-**YOU WILL BE GIVEN A ZERO IF YOU USE AN EXTERNAL FUNCTION**
+**Coding Style**
 
-**Coding style**
+Coding style will not be marked in assignment 1, but it will be evaluated in later assignments. Ensure the following:
 
-We are not going to mark coding style in assignment 1, but we will mark it in one of the later assignments. Make sure you,
+1. Indent your code correctly.
+2. Use consistent coding style throughout the submission.
+3. Include comments for non-trivial implementations.
 
-1. Indent your code correctly. <https://en.wikipedia.org/wiki/Indentation_style>
-2. Use consistent coding style (C-style indentation with C-style variable naming OR Java-style indentation with Java-style variable naming) and stick with it throughout the submission.
-3. Have documentation in the form of comments where required. Especially important for non-trivial implementations.
+---
 
-**Breach of academic integrity**
+**Breach of Academic Integrity**
 
-You must add your Student ID, Name at the top of **Analytics.java** and put an **x** in the square brackets to confirm that you haven't viewed any other person's code. If your code is found to be similar to other students, you will be referred to the faculty disciplinary committee (FDC) and it's a painful process. So, make sure you design and write your own code and don't even look at another person's code.
+Ensure your Student ID and Name are at the top of **Analytics.java**, and mark the checkbox to confirm that you haven't viewed any other person's code. Plagiarism will result in disciplinary action. Update the top of **Analytics.java** as follows:
 
-Make sure you update the top of **Analytics.java** with the information required. For example:
-
-//Gaurav Gupta
-//40404040
+```java
+// Your Name
+// Your Student ID
 //[x]   I confirm this is my own work (in design and implementation) 
 //      and that I have not viewed another student's code OR design.
+```
+
+---
 
 **Submission**
 
-Submit only file **Analytics.java** by dragging from Eclipse package explorer and dropping it right into the submission box. Do not drag **AnalyticsTest.java** or **Analytics.class** accidentally.
+Submit only the file **Analytics.java** by dragging it from the Eclipse package explorer and dropping it into the submission box. Do not include **AnalyticsTest.java** or **Analytics.class** accidentally.
 
-DO NOT RENAME THE FILE. WE NEED THE FILE TO BE NAMED **Analytics.java**
+**DO NOT RENAME THE FILE. IT MUST BE NAMED Analytics.java**
 
-You can make the submission as many times as you want, and only the last submission will be marked. If you make a submission after the due date, a late penalty will be applied at the rate of 20% per day or part of (1 second to 24 hours: 20%, 24 hours 1 second to 48 hours: 40%, and so on). For example, if your raw mark is 68 and it's late by 1 second, your mark will be reduced to 48.
+You can make multiple submissions, but only the last one will be marked. Late submissions will incur a penalty of 20% per day.
 
-Any errors in submission (compilation error, even because of a single extra curly bracket or a missing semi-colon), any file with a different name than the required one (**Analytics.java**), any programs that take longer than 5 seconds to run, use of external functions will automatically get a zero.
+Errors in submission, such as compilation errors, incorrect file names, or programs taking longer than 5 seconds to run, will result in a zero grade.
 
-All the best!
+---
+
+Wishing you the best of luck!
