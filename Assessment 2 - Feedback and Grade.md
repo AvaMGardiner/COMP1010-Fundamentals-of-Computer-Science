@@ -12,15 +12,15 @@
 
 | Criteria       | Description                                                                                      | Points |
 |----------------|--------------------------------------------------------------------------------------------------|--------|
-| Variable names | Purposeful and reasonable variable names at all places                                           | <span style="color:green">**5**</span>      |
-|                | Purposeful and reasonable variable names at most places                                          | <span style="color:green">**3**</span>      |
-|                | Purposeful and reasonable variable names at no place                                              | <span style="color:red">0</span>      |
-| Commenting     | Commenting provided where warranted                                                              | <span style="color:green">**5**</span>      |
-|                | Some aspects of code not commented, but most were                                                 | <span style="color:orange">3</span>      |
-|                | Negligible commenting in the program                                                              | <span style="color:red">0</span>      |
-| Indentation    | Well-indented code                                                                               | <span style="color:green">**5**</span>      |
-|                | Well-indented code at most places but some sections not indented                                 | <span style="color:orange">3</span>      |
-|                | Very poor indentation                                                                            | <span style="color:red">0</span>      |
-| Logic          | Logical approach to problem solving. Couldn't find any place that warrants any significant improvement | <span style="color:green">**5**</span>      |
-|                | Logical approach to problem solving in most places, some sections were convoluted                 | <span style="color:orange">4</span>      |
-|                | Convoluted and/or poor logic throughout the program                                               | <span style="color:red">0</span>      |
+| Variable names | **Purposeful and reasonable variable names at all places**                                           | **5**      |
+|                | Purposeful and reasonable variable names at most places                                          | 3      |
+|                | Purposeful and reasonable variable names at no place                                              | 0      |
+| Commenting     | Commenting provided where warranted                                                              | 5      |
+|                | **Some aspects of code not commented, but most were**                                                 | **3**      |
+|                | Negligible commenting in the program                                                              | 0      |
+| Indentation    | **Well-indented code**                                                                               | **5**      |
+|                | Well-indented code at most places but some sections not indented                                 | 3      |
+|                | Very poor indentation                                                                            | 0      |
+| Logic          | **Logical approach to problem solving. Couldn't find any place that warrants any significant improvement** | **5**      |
+|                | Logical approach to problem solving in most places, some sections were convoluted                 | 4      |
+|                | Convoluted and/or poor logic throughout the program                                               | 0      |
