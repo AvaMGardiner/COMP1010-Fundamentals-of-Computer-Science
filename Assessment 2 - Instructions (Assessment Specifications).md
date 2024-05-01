@@ -1,11 +1,11 @@
-# Assignment 2 coding style (out of 20)
+# Assignment 2 Coding Style (Out of 20)
 
 - (10% of the final grade, Due Sunday 11th April 21:00, Late penalty 20% per day or part of)  
 - Starting point/template: [assignment2template.zip](<ins>assignment2template.zip</ins>) (bottom of page)  
 
 ---
 
-**Topics assessed**
+**Topics Assessed**
 
 1. Classes and objects
 2. Class containing arrays  
@@ -31,7 +31,7 @@ You can add instance methods and variables inside any class, but they must be de
 
 ---
 
-**Coding style**  
+**Coding Style**  
 
 We will assess you on coding style in this assignment. It is a topic embedded throughout COMP1000, COMP1010. Aspects of the coding style include,
 
@@ -93,7 +93,7 @@ public static boolean containsNeg(int[] a) {
 
 ---
 
-**Grade distribution**  
+**Grade Distribution**  
 
 - VideoAnalytics (76 marks) Auto-marked
 - VideoAnalyticsClient (4 marks) Auto-marked
@@ -107,7 +107,7 @@ Drag and drop VideoAnalytics.java and VideoAnalyticsClient.java from package exp
 
 ---
 
-**Use of functions from outside**
+**Use of Functions from Outside**
 
 Use of functions from outside the submitted files will result in an automatic zero.
 
