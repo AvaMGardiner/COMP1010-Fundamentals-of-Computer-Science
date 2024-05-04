@@ -6,8 +6,8 @@ In this unit, I have studied programming as a systematic discipline and have bee
 
 **Technology Used**
 
-- Java SE - download the latest Java SE to be compatible with the labs.
-- Eclipse and Visual Studio Code - the IDEs we shall be using during the session.
+- [Java SE](https://www.oracle.com/java/technologies/downloads/)
+- [Visual Studio Code](https://code.visualstudio.com/download)
 
 **Assessment 1, 2, 3, and 4**
 
